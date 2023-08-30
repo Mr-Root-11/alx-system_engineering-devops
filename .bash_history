@@ -361,3 +361,286 @@ git statuscd
 git statusc
 git status
 exit
+cd
+ls
+cd alx-pre_course/
+ls -l
+cat README.md 
+git push
+mkdir 0x01-git 
+git add .
+git push 
+git push main -m 
+git push main -m 0x01-git
+git push 0x01-git
+cd
+git push alx-pre_course/
+git push alx-pre_course
+cd
+cd alx-pre_course/
+cp README.md 0x01-git/
+cd 0x01-git/
+ls -l
+cd
+ls -l
+cd alx-pre_course/
+ls -l
+git push
+git add .
+git commit -m 'My second commit'
+git push
+cd 0x01-git/
+mkdir bash c js
+ls
+touch c/c_is_fun.c
+js/main.js
+js/index.js
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+touch bash/alx
+touch bash/school
+ci bash/alx
+vi bash/alx
+cat bash/
+cat bash/alx 
+vi bash/alx 
+vi bash/school 
+ls
+cd
+ls
+cd alx-pre_course/
+ls
+cd 0x01-git/
+ls
+ls -l
+cd 
+ls -l
+cd alx-pre_course/
+cd 0x01-git/
+ls -l
+cd bash/
+ls
+cd
+cd alx-pre_course/
+git add .
+git push 
+cd 0x01-git/
+git add .
+git push 
+git add .
+git commite -m "my third commit"
+git commit -m "my third commit"
+git push 
+cd
+git push 
+git push alx-pre_course/
+cd alx-pre_course/
+git add
+git add .
+git commit -m 'My third commit'
+git push 
+cd 
+cd alx-pre_course/
+cd 0x01-git/
+git add .
+git commit -m 'My third commit'
+git push 
+git commit -m 'Starting to code today, so cool'
+git add .
+git commit -m 'Starting to code today, so cool'
+ls
+cd bash/
+git add .
+git commit -m 'Starting to code today, so cool'
+git rebase -i HEAD~N
+git rebase -i my third commit
+git rebase -i 
+git add 
+git add .
+git commit -m 'Starting to code today, so cool'
+cd 
+cd alx-pre_course/
+git commit -M 'Starting to code today, so cool'
+git commit -m 'Starting to code today, so cool'
+rm -r 0x01-git/
+ls
+git add .
+git push 
+ls -l
+ls 
+mkdir 0x01-git
+cd 0x01-git/
+touch c/c_is_fun.c
+touch js/main.js
+mkdir bash js c
+touch js/main.js
+touch c/c_is_fun.c
+cd js
+ls -l
+cd
+touch js/index.js
+ls
+ls -l
+cd alx-pre_course/
+cd 0x01-git/
+ls
+ls -l
+cd js
+l
+cd
+touch js/index.js
+cd alx-pre_course/
+cd 0x01-git/
+touch js/index.js
+ls
+echo '#!/bin/bash echo "ALX"' >> bash/alx
+echo '#!/bin/bash echo "school"' >> bash/school
+cat bash/alx 
+cat bash/school 
+git add .
+git commit -m 'Starting to code today, so cool'
+git push
+cd
+git push 
+git push .
+git add
+git add .
+git push 
+git push alx-pre_course/
+git push alx-pre_course/0x01-git/
+cd alx-pre_course/
+git push 
+cd 0x01-git/
+git add .
+git commit -m 'Starting to code today, so cool'
+git push
+git push origin
+git push origin -m
+git push origin -m .
+git add .
+git commit -m 'Starting to code today, so cool'
+git commit -m "Starting to code today, so cool"
+git push 
+cd bash/
+git add .
+git commit -m "Starting to code today, so cool"
+git push
+cd
+git clone https://github.com/Mr-Root-11/alx-pre_course.git
+cd alx-pre_course/
+git clone https://github.com/Mr-Root-11/alx-pre_course.git
+git commit -m "Starting to code today, so cool"
+git push
+git pull
+git commit -m "Starting to code today, so cool"
+git push
+git pull 
+git pull .
+git pull 0x01-git/
+git pull 0x01-git/ 
+git add .
+cd 0x01-git/
+ls
+l
+ls =l
+ls l
+ls -l
+cd c
+cd
+ls -l
+cd alx-pre_course/
+cd 0x01-git/
+git commit -m "Starting to code today, so cool"
+git push 
+touch bash/98
+vi bash/alx 
+vi bash/school 
+vi bash/alx 
+vi bash/school 
+git push origin main
+git push
+ls -l
+cd bash/
+ls -l
+cd
+git commit -m "My personal work"
+cd alx-pre_course/
+git push
+cd 0x01-git/
+cd bash/
+git commit -m "My personal work"
+git add .
+git commit -m "My personal work"
+git push
+git commit -m "My personal work"
+cd
+git commit -m "My personal work"
+cd alx-pre_course/
+git add .
+git commit -m "My personal work"
+git push 
+git pull
+git push origin 
+cd 0x01-git/
+cd bash/
+git add .
+git commit -m "My personal work"
+git push
+ls -l
+cd
+ls
+cd alx-pre_course/
+ls
+cd 0x01-git/
+ls
+git add .
+git commit -m "Hot fix"
+rm -r js
+vi bash/alx 
+git add .
+git commit -m "Hot fix"
+git push 
+ls
+git push 
+cd
+ls
+cd alx-pre_course/
+cd 0x01-git/
+ls -l
+touch up_to_date
+touch README.md
+vi README.md 
+git commit -m "How to be up to date in git"
+git add .
+git commit -m "How to be up to date in git"
+git push
+exit
+ls 
+cd root/
+cd alx-pre_course/
+ls -l
+cd
+exit
+cd root
+mkdir 0x02_vi
+cd 0x02_vi/
+vi inserting
+vi cutting
+vi pasting
+vi undoing
+vi pasting
+vi exiting
+vi beginning_of_the_line
+vi end_of_the_line
+vi exiting
+cd
+git clone https://github.com/Mr-Root-11/alx-zero_day.git
+cd alx-zero_day/
+echo 'My first readme' > README.md                                                                
+git config --global user.email "youssefeljouari"
+git config --global user.name "youssef"
+git add .
+git commit -m 'My first commit'
+git push
+exit
