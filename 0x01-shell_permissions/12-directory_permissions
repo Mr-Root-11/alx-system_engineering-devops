@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 mkdir -m 751 my_dir
+=======
+mkdir -m 751 my_dir 
+>>>>>>> 9e1083af31c1322b5aaf04f33d7d38211006ba8b
