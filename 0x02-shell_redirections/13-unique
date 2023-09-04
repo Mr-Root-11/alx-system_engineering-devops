@@ -1,2 +1,2 @@
 #!/bin/bash
-sort file.txt | uniq -u
+sort | uniq -u
